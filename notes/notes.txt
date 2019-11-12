@@ -1,0 +1,23 @@
+inputs
+	Arguments
+	STDIN
+	SIGNAL
+	CONFIG
+
+Outputs
+	STDOUT
+	STDERR
+
+CLA Libraries
+	In The Box
+		Do-It-yourself
+		getopt
+		optparse
+		argparse
+
+	3rd Party
+		docopt
+		client
+		click	
+		compago
+
